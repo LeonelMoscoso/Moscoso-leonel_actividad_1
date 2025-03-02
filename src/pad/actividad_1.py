@@ -1,4 +1,3 @@
-
 import json
 import os
 import requests  # Nueva librería para manejar APIs
@@ -117,4 +116,6 @@ inges.escribir_txt(nombre="archivo_txt_copy", datos=datos_txt_dos)
 if datos_api:
     inges.escribir_json(datos_api, nombre="datos_api.json")
 
-# final
+
+# final_activity.py
+# Ejecutar el script de la actividad 1

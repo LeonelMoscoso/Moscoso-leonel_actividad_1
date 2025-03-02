@@ -32,10 +32,6 @@ MANIFEST
 *.manifest
 *.spec
 
-venv/
-__pycache__/
-*.pyc
-*.pyo
 
 
 
@@ -176,3 +172,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+venv/
