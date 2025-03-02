@@ -118,5 +118,4 @@ if datos_api:
 
 
 # final_activity.py
-# Ejecutar el script de la actividad_1
-#finalizar_actividad.py
+# Ejecutar el script de la actividad_1.py
